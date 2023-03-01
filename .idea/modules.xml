@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestsigmaAddon.iml" filepath="$PROJECT_DIR$/.idea/TestsigmaAddon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql_1084363226369763275416300801397242803063/mysql_queries.iml" filepath="$PROJECT_DIR$/mysql_1084363226369763275416300801397242803063/mysql_queries.iml" />
+    </modules>
+  </component>
+</project>
